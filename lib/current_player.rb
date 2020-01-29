@@ -8,6 +8,6 @@ def turn_count(board_array)
     return number_of_turns
 end
 
-def current_player()
+def current_player(board_array)
   
 end
