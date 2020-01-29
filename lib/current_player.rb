@@ -4,5 +4,6 @@ def turn_count(board_array)
     if index == "X" || index == "O"
       number_of_turns += 1
     end
+    return number_of_turns
 end
 
